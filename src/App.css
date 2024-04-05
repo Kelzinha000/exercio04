@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: auto 0;
+    padding: 0;
+    justify-content: center;
+}
+.main{
+display: flex;
+gap: 1px;
+align-items: center;
+padding: 30px;
+}
+.box{
+   padding: 15px;
+   border: solid;
+   border-radius: 25px;
+   width: 350px; 
+   height: 500px;
+   text-align: center;
+   background-color: ;
+}
+.btn{
+    background-color:hsl(224, 30%, 27%) ;
+    color:hsl(0, 0%, 100%) ;
+}
+.box-number76{
+    background-image: linear-gradient(to top,hsl(256, 72%, 46%) );
+    background-color: hsl(256, 72%, 46%);
+  
+}
+.summary{
+    padding: 15px;
+    border-radius: 25px;
+    width: 350px; 
+    border: solid;
+    display: inline-block;
+    height: 500px;
+
+}
+
